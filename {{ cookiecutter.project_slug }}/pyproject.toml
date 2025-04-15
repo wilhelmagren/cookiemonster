@@ -1,0 +1,7 @@
+[project]
+name = "{{ cookiecutter.module_name }}"
+version = "{{ cookiecutter.module_version }}"
+description = "{{ cookiecutter.project_description }}"
+readme = "README.md"
+requires-python = ">={{ cookiecutter.requires_python_version }}"
+dependencies = []

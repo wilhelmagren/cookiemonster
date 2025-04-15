@@ -1,2 +1,0 @@
-# cookiemonster
-cookiecutter sandbox

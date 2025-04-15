@@ -1,0 +1,3 @@
+[postgresql]
+PG_HOST="{{ cookiecutter.pg_host }}"
+PG_PORT="{{ cookiecutter.pg_port }}"
